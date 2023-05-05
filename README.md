@@ -49,6 +49,7 @@ b) 1_group.v - elements of group theory.
 c) 2_altg.v - elements of permutation theory necessary for definition of the alternating group.
 
 3. C:\Veda\Veda_6.
+  
 This project can   
 ##Intallation
 To install Veda_22:
