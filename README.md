@@ -49,9 +49,8 @@ b) 1_group.v - elements of group theory.
 c) 2_altg.v - elements of permutation theory necessary for definition of the alternating group.
 
 3. C:\Veda\Veda_6.
-This project can 
+This project can   
 ##Intallation
-
 To install Veda_22:
 1. Download the file veda22Setup.exe (see this repo).
 2. Run it. The system should be installed in the directory c:\ProgramFiles\ as Veda22.
