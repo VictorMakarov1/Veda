@@ -18,3 +18,16 @@ For installing Veda_6 see the text file Install_veda_6.txt
 The reason for using Veda_6 is that for big modules it works much faster than Veda_22. But for the student writing small proofs it is inessential.
 
 For using Veda_22 or Veda_6 see the text file Using_Veda.txt.
+
+## Files in this repo
+
+1. 0_root.v - elementary mathematical logic and set theory;
+2. 1_group.v - the basics of group theory, including the isomorphism theorems;
+3. 2_altg.v - the basics of the permutation theory, necessary for defining the alternating group;
+4. Install_Veda22.txt - detailed instructions on how to install Veda22;
+5. Newveda_C4.zip - the source code (cpp- and h-files) for Veda6;
+6. V6_short.pdf - a short description of the V language; 
+7. Veda.rar - see Install_Veda22.txt;
+8. Veda22Setup.exe - the setup program for installing Veda22;
+9. Veda22_cpp_h.rar - the source code (cpp- and h-files) for Veda22.
+10. 
