@@ -7,7 +7,7 @@ It can be useful, for instance, to students studying (or self-studying) a mathem
 Currently, these disciplines are elementary mathematical logic, elementary set theory. and elements of group theory.
 The student can write her own proofs and the system will check them for correctness. See the text file learn.v with proof examples in elementary mathematical logic
 and set theory.
-## Veda_22 and Veda_6. 
+## Veda_22 and Veda_6 
 There are currently 2 versions of the system: Veda_22 and Veda_6. Both are Visual C++ console applications.
 Veda_22 was compiled and built in Visual Studo 2022 under Windows 10.
 For installing Veda_22 see the text file Install_veda_22.txt 
@@ -24,10 +24,11 @@ For using Veda_22 or Veda_6 see the text file Using_Veda.txt.
 1. 0_root.v - elementary mathematical logic and set theory;
 2. 1_group.v - the basics of group theory, including the isomorphism theorems;
 3. 2_altg.v - the basics of the permutation theory, necessary for defining the alternating group;
-4. Install_Veda22.txt - detailed instructions on how to install Veda22;
-5. Newveda_C4.zip - the source code (cpp- and h-files) for Veda6;
-6. V6_short.pdf - a short description of the V language; 
-7. Veda.rar - see Install_Veda22.txt;
-8. Veda22Setup.exe - the setup program for installing Veda22;
-9. Veda22_cpp_h.rar - the source code (cpp- and h-files) for Veda22.
-10. 
+4. 1_learn.v - propositional logic;
+5. Install_Veda22.txt - detailed instructions on how to install Veda22;
+6. Newveda_C4.zip - the source code (cpp- and h-files) for Veda6;
+7. V6_short.pdf - a short description of the V language; 
+8. Veda.rar - see Install_Veda22.txt;
+9. Veda22Setup.exe - the setup program for installing Veda22;
+10. Veda22_cpp_h.rar - the source code (cpp- and h-files) for Veda22.
+
