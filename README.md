@@ -1,7 +1,7 @@
 # Veda - A Proof-Checking System
 ## Introduction
 Veda is a new proof-checking system (a proof checker or a proof assistant) intended for checking mathematical texts (usually containing definitions and proofs)
-written in the formal mathematical language V (see V6_short.pdf in the current repo). 
+written in the formal mathematical language V (see V6_short.pdf in this repo). 
 
 It can be useful, for instance, to students studying (or self-studying) a mathematical discipline. 
 Currently, these disciplines are elementary mathematical logic, elementary set theory. and elements of group theory.
