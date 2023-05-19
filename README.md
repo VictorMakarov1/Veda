@@ -7,17 +7,17 @@ It can be useful, for instance, to students studying (or self-studying) a mathem
 Currently, these disciplines are elementary mathematical logic, elementary set theory. and elements of group theory.
 The student can write her own proofs and the system will check them for correctness. See the text file learn.v with proof examples in elementary mathematical logic
 and set theory.
-## Veda_22 and Veda_6 
-There are currently 2 versions of the system: Veda_22 and Veda_6. Both are Visual C++ console applications.
-Veda_22 was compiled and built in Visual Studo 2022 under Windows 10.
-For installing Veda_22 see the text file Install_veda_22.txt 
+## Veda22 and Veda6 
+There are currently 2 versions of the system: Veda22 and Veda6. Both are Visual C++ console applications.
+Veda22 was compiled and built in Visual Studo 2022 under Windows 10.
+For installing Veda22 see the text file Install_Veda22.txt 
 
-Veda_6 was compiled and built in Visual Studo 6.0 (VS6.0).
-For installing Veda_6 see the text file Install_veda_6.txt 
+Veda6 was compiled and built in Visual Studo 6.0 (VS6.0).
+For installing Veda6 see the text file Install_Veda6.txt 
 
-The reason for using Veda_6 is that for big modules it works much faster than Veda_22. But for the student writing small proofs it is inessential.
+The reason for using Veda6 is that for big modules it works much faster than Veda22. But for the student writing small proofs it is inessential.
 
-For using Veda_22 or Veda_6 see the text file Using_Veda.txt.
+For using Veda22 or Veda6 see the text file Using_Veda.txt.
 
 ## Files in this repo
 
