@@ -32,3 +32,26 @@ For using Veda22 or Veda6 see the text file Using_Veda.txt.
 9. Veda22Setup.exe - the setup program for installing Veda22;
 10. Veda22_cpp_h.rar - the source code (cpp- and h-files) for Veda22.
 
+## How to install Veda22
+
+Veda22.exe runs on x64 computers and requires Windows 10  (not tested yet on Windows 11).
+
+1. Download from this repo Veda22Setup.exe and Veda.rar to the download folder.
+
+2. Run Veda22Setup.exe as administrator.
+
+3. Veda22Setup.exe will create a new folder in C:\Program files named Veda22 
+   and put to it Veda22.exe(the system Veda22).
+
+4. Create a shortcut on the descktop for Veda22.exe.
+
+5. Unrar Veda.rar.
+
+6. You will see the folder Veda containing the file Project.txt and 2 folders:
+   LearnV and GroupTheory.
+
+7. Copy the folder Veda to your C drive.
+
+8. Double-click the shortcut for Veda22.exe which you have created before.
+
+9. Veda22 will check the file learn.v.
