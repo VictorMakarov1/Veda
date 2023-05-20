@@ -40,7 +40,7 @@ Veda22.exe runs on x64 computers and requires Windows 10  (not tested yet on Win
 
 2. Run Veda22Setup.exe as administrator.
 
-3. Veda22Setup.exe will create a new folder in C:\Program files named Veda22 
+3. Veda22Setup.exe will create a new folder in C:\Program Files named Veda22 
    and put to it Veda22.exe(the system Veda22).
 
 4. Create a shortcut on the descktop for Veda22.exe.
