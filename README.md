@@ -9,8 +9,9 @@ The student can write her own proofs and the system will check them for correctn
 and set theory.
 ## Veda22 and Veda6 
 There are currently 2 versions of the system: Veda22 and Veda6. Both are Visual C++ console applications.
+
 Veda22 was compiled and built in Visual Studo 2022 under Windows 10.
-For installing Veda22 see the text file Install_Veda22.txt 
+For installing Veda22 see the text file Install_Veda22.txt or the section "How to install Veda22" below
 
 Veda6 was compiled and built in Visual Studo 6.0 (VS6.0).
 For installing Veda6 see the text file Install_Veda6.txt 
