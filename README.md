@@ -14,6 +14,7 @@ Veda22 was compiled and built in Visual Studo 2022 under Windows 10.
 For installing Veda22 see the text file Install_Veda22.txt or the section "How to install Veda22" below.
 
 Veda6 was compiled and built in Visual Studo 6.0 (VS6.0).
+Visual Studio 6.0 is available at https://www.mediafire.com/file/67jbynw9h7bt6d1/VS98.rar/file
 For installing Veda6 see the text file Install_Veda6.txt 
 
 The reason for using Veda6 is that for big modules it works much faster than Veda22. But for the student writing small proofs it is inessential.
