@@ -15,6 +15,8 @@ For installing Veda22 see the text file Install_Veda22.txt or the section "How t
 
 Veda6 was compiled and built in Visual Studo 6.0 (VS6.0).
 Visual Studio 6.0 is available at https://www.mediafire.com/file/67jbynw9h7bt6d1/VS98.rar/file
+See also: 
+https://www.youtube.com/watch?v=GPv8coYl3cE
 
 For installing Veda6 see the text file Install_Veda6.txt 
 
